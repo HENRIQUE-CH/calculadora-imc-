@@ -1,2 +1,2 @@
 # calculadora-imc- React Native
- Calculadora de IMC feita em React 
+ Calculadora de IMC feita em React Native
